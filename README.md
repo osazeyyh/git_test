@@ -1,0 +1,1 @@
+This is not Osaz's first git project! hehe
